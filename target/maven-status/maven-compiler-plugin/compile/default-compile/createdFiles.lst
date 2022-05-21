@@ -1,0 +1,5 @@
+com\example\xxljobdemo\jobhandler\TestJobHandler.class
+com\example\xxljobdemo\XxljobDemoApplication.class
+com\example\xxljobdemo\job\AutoTestJob.class
+com\example\xxljobdemo\jobhandler\AutoTestJobHandler.class
+com\example\xxljobdemo\config\XxlJobConfig.class
